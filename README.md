@@ -1,6 +1,6 @@
-### Hi there 👋, my name is Md Arif
+## Hi there 👋, my name is Md Arif
 #### Web Developer
-![Web Developer](https://avatars.githubusercontent.com/u/101608674?v=4)
+
 
 I'm a meticulous front-end web developer with a focus on React.js. Specializing in crafting user-friendly interfaces, I excel in designing and implementing responsive, visually appealing web applications. My passion lies in seamlessly translating concepts into high-quality, engaging digital solutions, blending design principles with functionality.
 
